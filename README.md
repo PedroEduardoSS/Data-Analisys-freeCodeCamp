@@ -1,2 +1,2 @@
-# Data-Analisys-freeCodeCamp
- All Data Analisy projects made with Python on freeCodeCamp
+# Data-Analisys-projects
+ All Data Analisy projects made with Python
